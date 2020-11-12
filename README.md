@@ -1,7 +1,9 @@
 # Welcome to the CDK simple demo using Typescript
 
 This is a simple demo project for TypeScript with CDK.
+
 The project is a simple web service instaled in an EC2 instance and an Application Load Balancer.
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 
