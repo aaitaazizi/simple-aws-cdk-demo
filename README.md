@@ -2,10 +2,11 @@
 
 This is a simple demo project for TypeScript with CDK.
 
-The project is a simple web service instaled in an EC2 instance and an Application Load Balancer.
+The project is a simple web service installed in an EC2 instance and reachable using an Application Load Balancer.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
+NOTE: THIS REPOSITORY IS NOT MEANT FOR RUNNING IN PRODUCTION
 
 ## Useful CDK commands
 
@@ -16,4 +17,3 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
  * `cdk destroy`      Destroy the deployed stack in your default AWS account/region
  
 
-NOTE: THIS REPOSITORY IS NOT MEANT FOR RUNNING IN PRODUCTION
